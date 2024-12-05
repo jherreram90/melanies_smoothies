@@ -49,7 +49,7 @@ if ingredients_list:
        # st.write(fruityvice_response.json())
        # st.write(a)
        # fv = pd.DataFrame(a, columns = ['nutritions'])
-        fvv = pd.DataFrame(smoothiefroot_response.json(), columns = ['nutrition'])
+        #fvv = pd.DataFrame(smoothiefroot_response.json(), columns = ['nutrition'])
         
        # st.write(fv)
        # st.write(fvv)
